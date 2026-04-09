@@ -6,15 +6,22 @@ Relational SQL database project for an e-commerce platform
   
 # Objectives:
   -Store structured business data efficiently
+ 
   -Enforce data integrity using constraints
+  
   -Support business operations
+  
   -Demonstrate queries
 
 # Database Features:
   -Number of relational tables: 9
+  
   -Fully normalized(up to 3NF)
+  
   -Primary & Foreign Keys
+  
   -Constraints (NOT NULL, UNIQUE, CHECK)
+  
   -Indexing for better performance
 
 # Entities:
