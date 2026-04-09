@@ -26,13 +26,21 @@ Relational SQL database project for an e-commerce platform
 
 # Entities:
   -Customers
+  
   -Addresses
+  
   -Categories
+  
   -Suppliers
+  
   -Products
+  
   -Inventory
+  
   -Orders
+  
   -Order Items
+  
   -Payments
 
 # ER Diagram:
@@ -44,10 +52,14 @@ Relational SQL database project for an e-commerce platform
 # Instructions:
   1. Create a database in MySQL
   2. Run scripts in order:
-       create_tables.sql
-       constraints_indexes.sql
-       insert_sample_data.sql
-       queries.sql
+
+     create_tables.sql
+
+     constraints_indexes.sql
+
+     insert_sample_data.sql
+
+     queries.sql
   
   
 
