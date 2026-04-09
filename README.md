@@ -2,7 +2,7 @@
 Relational SQL database project for an e-commerce platform
 
 # Overview:
-  This project presents the design and implementation of a relational SQL database for an e-commerce platform. The system manages customers, products, orders, payments, and delivery information. 
+  This project presents the design and implementation of a relational SQL database for an e-commerce platform. The system manages customers, products, orders, payments, and delivery information. **I used GenAI for data generation, using it for the samples in the database.**
   For final output examples, see: /screenshots
   
 # Objectives:
